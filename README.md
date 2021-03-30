@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mridul Dey
 - 👀 I’m interested in technology, programming, leaning new things, chess, reading books
 - 🌱 I’m currently learning fullstack development with Node js
-- 💞️ I’m looking to collaborate on any suitable project
+- 💞️ I’m looking to collaborate on any suitable opensource project
 - 📫 Personal mail-id: mriduldey94@gmail.com
+- Live Projects : https://mriduldey.github.io/flipflop/ , https://mriduldey.github.io/Tic-Tac-Toe/ 
