@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning fullstack development with Node js
 - 💞️ I’m looking to collaborate on any suitable opensource project
 - 📫 Personal mail-id: mriduldey94@gmail.com
-- Live Projects : https://mriduldey.github.io/flipflop/ , https://mriduldey.github.io/Tic-Tac-Toe/ 
+- Live Projects : https://mriduldey.github.io/flipflop/ , https://mriduldey.github.io/Tic-Tac-Toe/ , https://mriduldey.github.io/fake-blog
